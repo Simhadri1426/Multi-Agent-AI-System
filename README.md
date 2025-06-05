@@ -338,5 +338,11 @@ Output:
 ![2025-06-05 (5)](https://github.com/user-attachments/assets/249fd423-7b51-47f2-a68e-8fe7b2ff5697)
 
 
+input:email.eml
+![2025-06-05 (1)](https://github.com/user-attachments/assets/fc8afe8a-2e64-4f4d-b65b-012c8cad68fe)
+OutPut:
+![2025-06-05 (4)](https://github.com/user-attachments/assets/3cfd8041-8103-4d12-a113-07a29db34e7c)
 
-   
+OverAll Output:
+   ![2025-06-05 (7)](https://github.com/user-attachments/assets/6a3f8ae8-cb00-41e8-a8e8-7de25c1bf5a0)
+
