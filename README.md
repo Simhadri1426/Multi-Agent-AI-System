@@ -322,4 +322,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please:
 1. Check the documentation
 2. Open an issue on GitHub
-3. Contact the development team 
+3. Contact the development team
+
+
+OUTPUT:
+![2025-06-05](https://github.com/user-attachments/assets/b7958418-6ac9-450f-85a8-836224788fe5)
+
+1.INPUTS AND OUTPUTS:
+
+   
