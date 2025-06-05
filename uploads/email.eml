@@ -1,0 +1,17 @@
+From: John Doe <john.doe@example.com>
+To: Jane Smith <jane.smith@example.com>
+Subject: Test Email for Project
+Date: Wed, 5 Jun 2025 10:30:00 +0530
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jane,
+
+This is a test email created for our multi-agent AI project.
+
+Let me know if you received this.
+
+Thanks,
+John
