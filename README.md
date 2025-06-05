@@ -328,6 +328,15 @@ For support, please:
 OUTPUT:
 ![2025-06-05](https://github.com/user-attachments/assets/b7958418-6ac9-450f-85a8-836224788fe5)
 
-1.INPUTS AND OUTPUTS:
+INPUTS AND OUTPUTS:
+sample: 
+Input: sample2.json
+
+
+Output: 
+
+![2025-06-05 (5)](https://github.com/user-attachments/assets/249fd423-7b51-47f2-a68e-8fe7b2ff5697)
+
+
 
    
